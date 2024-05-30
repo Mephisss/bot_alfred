@@ -1,2 +1,2 @@
 # bot_alfred
-Small discord bot
+Small discord bot.
